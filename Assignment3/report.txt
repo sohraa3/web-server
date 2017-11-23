@@ -1,0 +1,27 @@
+3c)
+nonce: 95:60:0c:2c:81:42:73:42:50:6e:a9:0c:dd:20:90:48:b4:c3:78:ea:52:25:d5:32:1d:4a:7b:36
+
+Cipher Suites (16 suites)
+    Cipher Suite: Unknown (0x4a4a)
+    Cipher Suite: TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256 (0xc02b)
+    Cipher Suite: TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256 (0xc02f)
+    Cipher Suite: TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384 (0xc02c)
+    Cipher Suite: TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384 (0xc030)
+    Cipher Suite: TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256 (0xcca9)
+    Cipher Suite: TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256 (0xcca8)
+    Cipher Suite: TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256 (0xcc14)
+    Cipher Suite: TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256 (0xcc13)
+    Cipher Suite: TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA (0xc013)
+    Cipher Suite: TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA (0xc014)
+    Cipher Suite: TLS_RSA_WITH_AES_128_GCM_SHA256 (0x009c)
+    Cipher Suite: TLS_RSA_WITH_AES_256_GCM_SHA384 (0x009d)
+    Cipher Suite: TLS_RSA_WITH_AES_128_CBC_SHA (0x002f)
+    Cipher Suite: TLS_RSA_WITH_AES_256_CBC_SHA (0x0035)
+    Cipher Suite: TLS_RSA_WITH_3DES_EDE_CBC_SHA (0x000a)
+
+
+3d)
+cipher suite chesen by server is:
+Cipher Suite: TLS_RSA_WITH_AES_256_CBC_SHA (0x0035)
+
+nonce:09:3c:86:1b:82:df:b3:af:21:44:1b:9d:a1:5c:5e:5c:5e:5a:56:93:d3:8f:0f:f7:a2:6b:f1:58
